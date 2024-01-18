@@ -1,0 +1,10 @@
+.canvas{
+  width: 70vw;
+  height: 100vh;
+  left: 0;
+  top: 0;
+  position: absolute;
+}
+.canvas:focus-visible{
+  outline: none;
+}
